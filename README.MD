@@ -28,3 +28,8 @@ Stil reading about datamodel.
 Interesting about function.__dict__ using with some metadata or cache  
 found usefull link:  
 - https://habr.com/ru/companies/doubletapp/articles/928874/
+
+### 15/09/2025:
+
+Finish reading about cache types from habr. Still reading about datamodel. Start reading about built-in functions:
+- https://docs.python.org/3/library/functions.html
