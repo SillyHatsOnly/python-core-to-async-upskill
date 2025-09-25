@@ -33,3 +33,7 @@ found usefull link:
 
 Finish reading about cache types from habr. Still reading about datamodel. Start reading about built-in functions:
 - https://docs.python.org/3/library/functions.html
+
+### 25/09/2025:
+
+Yep, still reading 3 part of python doc. Too much information :)
