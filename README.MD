@@ -37,3 +37,11 @@ Finish reading about cache types from habr. Still reading about datamodel. Start
 ### 25/09/2025:
 
 Yep, still reading 3 part of python doc. Too much information :)
+
+### 27/10/2025:
+
+I came back after all this shit :)  
+Almost finished with 3 part of documentation, stopping at section 3.2.13.4 Slice obj  
+
+While reading the documentation, I started doing a little homework, which you can find at this link:
+- https://github.com/SillyHatsOnly/bank_homework_2025
