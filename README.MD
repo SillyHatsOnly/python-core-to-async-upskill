@@ -45,3 +45,10 @@ Almost finished with 3 part of documentation, stopping at section 3.2.13.4 Slice
 
 While reading the documentation, I started doing a little homework, which you can find at this link:
 - https://github.com/SillyHatsOnly/bank_homework_2025
+
+### 13/11/2025:
+
+Start to read block 3.3.1. Basic customization  
+After 20 years of using Windows, i installed Linux Mint on my Lenovo. Well, it's interesting :)  
+Another my Lenovo using OpenBSD, i wrote about it here:
+- https://sillyhatsonly0.livejournal.com/5880.html
